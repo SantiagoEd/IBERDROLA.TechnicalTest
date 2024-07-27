@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IBERDROLA.TechnicalTest", "IBERDROLA.TechnicalTest\IBERDROLA.TechnicalTest.csproj", "{CEDE219E-FCB9-4F8B-AB39-0F0CC41690D4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{CCEAC2ED-0AFA-4FC9-8DD7-1CB769FB7F3A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "bd", "bd", "{00CAB602-85E4-4B21-85AE-2737A685D312}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEDE219E-FCB9-4F8B-AB39-0F0CC41690D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEDE219E-FCB9-4F8B-AB39-0F0CC41690D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEDE219E-FCB9-4F8B-AB39-0F0CC41690D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEDE219E-FCB9-4F8B-AB39-0F0CC41690D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CEDE219E-FCB9-4F8B-AB39-0F0CC41690D4} = {CCEAC2ED-0AFA-4FC9-8DD7-1CB769FB7F3A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E4750B6-9E1F-4510-9B42-4C952E2B2144}
+	EndGlobalSection
+EndGlobal
