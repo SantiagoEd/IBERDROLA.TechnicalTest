@@ -1,4 +1,4 @@
-﻿using Activities.Xcaret.Api.Helpers.StartConfiguration;
+﻿using IBERDROLA.TechnicalTest.Helpers.StartConfiguration;
 using IBERDROLA.TechnicalTest.Persistence.Interfaces;
 using Microsoft.Extensions.DependencyInjection.Extensions;
 using System.Data.Common;
